@@ -9,10 +9,10 @@ This project demonstrates my proficiency in data analysis using Microsoft Excel.
 * **Data Analysis and Visualization:** Various data analysis techniques were employed to uncover insights. This included creating pivot tables, graph charts, and a comprehensive dashboard.
 * **Key Findings from Excel Dashboard Visualization:-**
  
-      1. The **Food and Beverages** product category generated the highest sales, totaling $56k.
+     1. The **Food and Beverages** product category generated the highest sales, totaling $56k.
 
-      2. Cash payment method was predominantly used by both genders. Total sales by males amounted to $52k, while females spent $60k.
+     2. Cash payment method was predominantly used by both genders. Total sales by males amounted to $52k, while females spent $60k.
 
-      3. Sales experienced a decline from **January to February 2019**, followed by an upward trend from **February to March 2019**.
+     3. Sales experienced a decline from **January to February 2019**, followed by an upward trend from **February to March 2019**.
 
-      4. This project showcases my ability to utilize Excel's powerful features for data analysis, visualization, and deriving meaningful insights from sales data.
+     4. This project showcases my ability to utilize Excel's powerful features for data analysis, visualization, and deriving meaningful insights from sales data.
