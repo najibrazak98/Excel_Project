@@ -5,7 +5,7 @@ This project demonstrates my proficiency in data analysis using Microsoft Excel.
 
 * **Data Cleaning and Aggregation:** The dataset consisted of 10,001 rows of sales data. I cleaned the data by removing duplicates and handling missing values. Then, I aggregated the data to gain a comprehensive view.
 * **IF Function for Rating Category:** I utilized the IF function in Excel to add a "rating_category" column. This column categorizes the sales based on specific criteria.
-* **Text-to-Columns:** I used the Text-to-Columns function in Excel to split the Date column into separate columns with the "DDMMYYYY" format, using the delimiter "/".
+* **Text-to-Columns:** I used the Text-to-Columns function in Excel to split the Date column into separate columns with the "MDY" format, using the delimiter "/".
 * **Data Analysis and Visualization:** Various data analysis techniques were employed to uncover insights. This included creating pivot tables, graph charts, and a comprehensive dashboard.
 * **Key Findings from Excel Dashboard Visualization:-**
  
